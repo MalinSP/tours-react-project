@@ -13,7 +13,10 @@ To start project
 npm start
 `
 
+---
 Completed [project](https://tours-react-by-malina.netlify.app/)
+
+---
 
 #### Screenshots
 
