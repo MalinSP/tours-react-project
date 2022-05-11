@@ -17,3 +17,5 @@ Completed [project](https://tours-react-by-malina.netlify.app/)
 
 #### Screenshots
 
+![image](./screenshot.png)
+
